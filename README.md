@@ -14,6 +14,26 @@ Alwrity is an AI-powered generator designed to assist users in creating compelli
 1. **Input Section:** Enter the brand/company name, situation, task, action, and result in the input fields provided.
 2. **Generate Copy:** Click the "Get STAR Copy" button to generate copy based on the provided inputs.
 3. **View Copy:** Once generated, the copy will be displayed in the web app for review and use.
+---
+
+### What's STAR Copywriting Formula, and How to use this AI generator 
+
+STAR is an acronym for Situation-Task-Action-Result. It's a copywriting framework that focuses on guiding the audience through different stages:
+
+1. **Situation**: Setting the context or background for the problem or need.
+2. **Task**: Describing the specific challenge or objective to be addressed.
+3. **Action**: Explaining the actions taken to solve the problem or achieve the objective.
+4. **Result**: Highlighting the outcome or benefits achieved from the actions.
+
+The STAR formula helps in creating clear and concise copy that effectively communicates the value proposition.
+
+#### STAR Copywriting Formula: Simple Example
+
+- **Situation**: "In a fast-paced business environment..."
+- **Task**: "Our team needed a solution to streamline communication..."
+- **Action**: "We implemented a new collaboration tool..."
+- **Result**: "Resulting in improved productivity and efficiency."
+---
 
 ## Requirements
 
